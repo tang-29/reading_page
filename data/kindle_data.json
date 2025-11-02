@@ -54,10 +54,17 @@
     "2025-10-11",
     "2025-10-12",
     "2025-10-18",
-    "2025-10-20"
+    "2025-10-20",
+    "2025-10-31",
+    "2025-11-01"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
+    "start": "2025-10-31T00:00:00.000Z",
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762045547
   },
   "longest_daily_streak": {
     "duration": 5,
@@ -67,24 +74,32 @@
     "end": "2024-12-21T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-20T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-10-20T00:00:00.000Z",
-    "ttl": 1761959087
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762045547
   },
   "longest_weekly_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-20T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-10-20T00:00:00.000Z"
+    "end": "2025-11-01T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "8E59E4B807FC45B39002113EECF26C9D",
+        "read_event_id": "89eae8f6-1f3e-47af-b686-0b6b7d0b7e2d",
+        "date_read": "2025-11-01T02:41:20-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "C636BE6678614D9D816E21A2F1B1BD03",
         "read_event_id": "feed42d2-55fc-48a7-92fe-cf233106601e",
@@ -331,35 +346,35 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 61,
+    "daysLeftInCurrentChallenge": 60,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_a45cb854-f187-33a3-b18f-9b143b7ddeb1.png",
-        "quantity": 1,
-        "title": "藏书家",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
         "quantity": 0,
-        "title": "金牌读者",
+        "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_SilverReader_21fe19f7-5807-3fb7-a491-c14e7a519764.png",
         "quantity": 0,
-        "title": "银牌读者",
+        "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
         "quantity": 0,
-        "title": "完美读书月",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       }
