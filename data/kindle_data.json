@@ -67,15 +67,17 @@
     "2025-11-09",
     "2025-11-11",
     "2025-11-12",
-    "2025-11-13"
+    "2025-11-13",
+    "2025-11-14",
+    "2025-11-15"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-13T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-11-11T00:00:00.000Z",
-    "end": "2025-11-13T00:00:00.000Z",
-    "ttl": 1763168486
+    "end": "2025-11-15T00:00:00.000Z",
+    "ttl": 1763255233
   },
   "longest_daily_streak": {
     "duration": 10,
@@ -87,22 +89,38 @@
   "current_weekly_streak": {
     "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-13T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-11-13T00:00:00.000Z",
-    "ttl": 1763168486
+    "end": "2025-11-15T00:00:00.000Z",
+    "ttl": 1763255233
   },
   "longest_weekly_streak": {
     "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-13T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-11-13T00:00:00.000Z"
+    "end": "2025-11-15T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "C23CC10AD4F8496CAA95E90653F6D449",
+        "read_event_id": "675058dd-9263-40c7-a470-952d6c5a4bee",
+        "date_read": "2025-11-15T03:18:40-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "0D36013CAEA4422192C21E8AD45695F2",
+        "read_event_id": "17a55455-5b83-43fa-8e24-e2a11daa63d3",
+        "date_read": "2025-11-14T21:20:46-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "545EFF22DEF541E9BFFB5C5E4939A917",
         "read_event_id": "4775342d-43a3-439d-aef8-1148aebe4dfe",
@@ -397,7 +415,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 47,
+    "daysLeftInCurrentChallenge": 46,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
