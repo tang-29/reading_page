@@ -87,42 +87,51 @@
     "2025-12-02",
     "2025-12-03",
     "2025-12-04",
-    "2025-12-05"
+    "2025-12-05",
+    "2025-12-06"
   ],
   "current_daily_streak": {
-    "duration": 17,
+    "duration": 18,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z",
-    "ttl": 1764982901
+    "end": "2025-12-06T00:00:00.000Z",
+    "ttl": 1765069861
   },
   "longest_daily_streak": {
-    "duration": 17,
+    "duration": 18,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z"
+    "end": "2025-12-06T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 11,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z",
-    "ttl": 1764982901
+    "end": "2025-12-06T00:00:00.000Z",
+    "ttl": 1765069861
   },
   "longest_weekly_streak": {
     "duration": 11,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-05T08:00:00.000Z",
+    "utcEndTime": "2025-12-06T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-05T00:00:00.000Z"
+    "end": "2025-12-06T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "94D45EB186204B74B5F719564F6501A0",
+        "read_event_id": "2ca44383-c408-495a-a351-539c7e2a1c73",
+        "date_read": "2025-12-05T18:26:44-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "72130739C95D43969B7E2F962D7D0DDE",
         "read_event_id": "49d58606-26ca-4a1c-9239-0a29b53fbe4a",
@@ -490,16 +499,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 26,
+    "daysLeftInCurrentChallenge": 25,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_SilverReader_ff7073cb-1d8d-3dbf-8cf0-278784f7d560.png",
-        "quantity": 1,
-        "title": "Silver Reader",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
+        "quantity": 3,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
