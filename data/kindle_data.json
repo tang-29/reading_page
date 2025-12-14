@@ -94,42 +94,67 @@
     "2025-12-09",
     "2025-12-10",
     "2025-12-11",
-    "2025-12-12"
+    "2025-12-12",
+    "2025-12-13"
   ],
   "current_daily_streak": {
-    "duration": 24,
+    "duration": 25,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-12T08:00:00.000Z",
+    "utcEndTime": "2025-12-13T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-12T00:00:00.000Z",
-    "ttl": 1765587752
+    "end": "2025-12-13T00:00:00.000Z",
+    "ttl": 1765674676
   },
   "longest_daily_streak": {
-    "duration": 24,
+    "duration": 25,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-12T08:00:00.000Z",
+    "utcEndTime": "2025-12-13T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-12T00:00:00.000Z"
+    "end": "2025-12-13T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-12T08:00:00.000Z",
+    "utcEndTime": "2025-12-13T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-12T00:00:00.000Z",
-    "ttl": 1765587752
+    "end": "2025-12-13T00:00:00.000Z",
+    "ttl": 1765674676
   },
   "longest_weekly_streak": {
     "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-12T08:00:00.000Z",
+    "utcEndTime": "2025-12-13T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-12T00:00:00.000Z"
+    "end": "2025-12-13T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "D4263A64D559419F825B85FF3A070246",
+        "read_event_id": "88c8fadc-f352-4599-b490-2afb37b166a2",
+        "date_read": "2025-12-13T02:33:00-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "F7AA7C71EC734DECB0AF2CE8EFDC55CF",
+        "read_event_id": "7b77de2b-be8d-4cde-8eab-35dd8788fbed",
+        "date_read": "2025-12-12T19:14:25-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "A03A22FA993C432B85279C7821448ED8",
+        "read_event_id": "94cd577a-6b05-4633-b8dd-d4c9bb59292b",
+        "date_read": "2025-12-12T18:35:00-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "94D45EB186204B74B5F719564F6501A0",
         "read_event_id": "2ca44383-c408-495a-a351-539c7e2a1c73",
@@ -505,13 +530,13 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 19,
+    "daysLeftInCurrentChallenge": 18,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 3,
+        "quantity": 4,
         "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
