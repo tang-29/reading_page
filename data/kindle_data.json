@@ -101,42 +101,59 @@
     "2025-12-16",
     "2025-12-17",
     "2025-12-18",
-    "2025-12-19"
+    "2025-12-19",
+    "2025-12-20"
   ],
   "current_daily_streak": {
-    "duration": 31,
+    "duration": 32,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z",
-    "ttl": 1766192552
+    "end": "2025-12-20T00:00:00.000Z",
+    "ttl": 1766279454
   },
   "longest_daily_streak": {
-    "duration": 31,
+    "duration": 32,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z"
+    "end": "2025-12-20T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z",
-    "ttl": 1766192552
+    "end": "2025-12-20T00:00:00.000Z",
+    "ttl": 1766279454
   },
   "longest_weekly_streak": {
     "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-19T08:00:00.000Z",
+    "utcEndTime": "2025-12-20T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-19T00:00:00.000Z"
+    "end": "2025-12-20T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "7F79577A0BC540359DC6993DAC71AE05",
+        "read_event_id": "86abef04-dcaa-4c61-a84d-3789a661f65f",
+        "date_read": "2025-12-20T01:21:45-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "653A51864D12465E81244778326E9383",
+        "read_event_id": "77c00727-6593-4314-97bf-604e6cfe2218",
+        "date_read": "2025-12-19T17:44:38-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "D4263A64D559419F825B85FF3A070246",
         "read_event_id": "88c8fadc-f352-4599-b490-2afb37b166a2",
@@ -536,16 +553,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 12,
+    "daysLeftInCurrentChallenge": 11,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 9,
+    "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 4,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_WinterVacation_714804ca-78ac-4173-9d6d-26b998193f2d.png",
+        "quantity": 1,
+        "title": "Winter Vacation",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
