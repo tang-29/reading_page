@@ -112,42 +112,51 @@
     "2025-12-27",
     "2025-12-28",
     "2025-12-29",
-    "2025-12-30"
+    "2025-12-30",
+    "2025-12-31"
   ],
   "current_daily_streak": {
-    "duration": 42,
+    "duration": 43,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z",
-    "ttl": 1767143281
+    "end": "2025-12-31T00:00:00.000Z",
+    "ttl": 1767230087
   },
   "longest_daily_streak": {
-    "duration": 42,
+    "duration": 43,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z"
+    "end": "2025-12-31T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z",
-    "ttl": 1767143281
+    "end": "2025-12-31T00:00:00.000Z",
+    "ttl": 1767230087
   },
   "longest_weekly_streak": {
     "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2025-12-30T00:00:00.000Z"
+    "end": "2025-12-31T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "VL5MNDICPGBTUYGXWBOIIDZPHR25XMAF",
+        "read_event_id": "5e360934-7c41-42c6-80ce-f5c4b8002573",
+        "date_read": "2025-12-30T19:35:15-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "8E447E7327D844D2A54F4D5402C038F9",
         "read_event_id": "dea05845-d2a6-43ae-9ae9-f6e114b7d37d",
@@ -579,14 +588,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 1,
+    "daysLeftInCurrentChallenge": 0,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 10,
+    "totalEarnedAchievements": 11,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 6,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_7e50153a-47ab-3e55-9696-dfd76d566392.png",
+        "quantity": 1,
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
@@ -598,16 +607,16 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
-        "quantity": 0,
-        "title": "Perfect Month",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
-      },
-      {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_FallColors_46cc3ba2-cee6-455b-9298-97ac70242996.png",
         "quantity": 0,
         "title": "Fall Colors",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Scarecrow_5f8fae48-870f-4e5a-b4ec-20eeb6cb0cb7.png",
+        "quantity": 0,
+        "title": "Scarecrow",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
