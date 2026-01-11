@@ -122,42 +122,51 @@
     "2026-01-06",
     "2026-01-07",
     "2026-01-08",
-    "2026-01-09"
+    "2026-01-09",
+    "2026-01-10"
   ],
   "current_daily_streak": {
-    "duration": 52,
+    "duration": 53,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-09T08:00:00.000Z",
+    "utcEndTime": "2026-01-10T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2026-01-09T00:00:00.000Z",
-    "ttl": 1768007201
+    "end": "2026-01-10T00:00:00.000Z",
+    "ttl": 1768094120
   },
   "longest_daily_streak": {
-    "duration": 52,
+    "duration": 53,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-09T08:00:00.000Z",
+    "utcEndTime": "2026-01-10T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2026-01-09T00:00:00.000Z"
+    "end": "2026-01-10T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 16,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-09T08:00:00.000Z",
+    "utcEndTime": "2026-01-10T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-01-09T00:00:00.000Z",
-    "ttl": 1768007201
+    "end": "2026-01-10T00:00:00.000Z",
+    "ttl": 1768094120
   },
   "longest_weekly_streak": {
     "duration": 16,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-09T08:00:00.000Z",
+    "utcEndTime": "2026-01-10T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-01-09T00:00:00.000Z"
+    "end": "2026-01-10T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "05888DDD849E489CB8F5A8FB7470D98A",
+        "read_event_id": "fee33ad1-e588-4f9e-aa67-df5170b58e1c",
+        "date_read": "2026-01-10T06:42:22-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "1F95F1A7D3F04932922711EA232A8AE1",
         "read_event_id": "f9183318-a4c0-49d5-934f-7bdc780bfad5",
@@ -621,16 +630,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 81,
+    "daysLeftInCurrentChallenge": 80,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_064d23f7-c42a-31c8-bc83-6e61284b1cfe.png",
-        "quantity": 1,
-        "title": "Bibliophile",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
+        "quantity": 2,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
