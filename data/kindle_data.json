@@ -130,42 +130,51 @@
     "2026-01-14",
     "2026-01-15",
     "2026-01-16",
-    "2026-01-17"
+    "2026-01-17",
+    "2026-01-18"
   ],
   "current_daily_streak": {
-    "duration": 60,
+    "duration": 61,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-17T08:00:00.000Z",
+    "utcEndTime": "2026-01-18T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2026-01-17T00:00:00.000Z",
-    "ttl": 1768698862
+    "end": "2026-01-18T00:00:00.000Z",
+    "ttl": 1768785195
   },
   "longest_daily_streak": {
-    "duration": 60,
+    "duration": 61,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-17T08:00:00.000Z",
+    "utcEndTime": "2026-01-18T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2026-01-17T00:00:00.000Z"
+    "end": "2026-01-18T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 17,
+    "duration": 18,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-17T08:00:00.000Z",
+    "utcEndTime": "2026-01-18T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-01-17T00:00:00.000Z",
-    "ttl": 1768698862
+    "end": "2026-01-18T00:00:00.000Z",
+    "ttl": 1768785195
   },
   "longest_weekly_streak": {
-    "duration": 17,
+    "duration": 18,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-17T08:00:00.000Z",
+    "utcEndTime": "2026-01-18T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-01-17T00:00:00.000Z"
+    "end": "2026-01-18T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "54D2BA7302C74E4696637B8FE96F510E",
+        "read_event_id": "a0958193-f89e-4d65-b433-f09b0982af8d",
+        "date_read": "2026-01-18T02:45:05-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "3109D22707954F97978ADF09ECAF08F2",
         "read_event_id": "12ca4e3d-2acc-4ed2-9f58-efb4214bdb79",
@@ -693,7 +702,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 73,
+    "daysLeftInCurrentChallenge": 72,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
