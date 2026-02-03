@@ -145,37 +145,38 @@
     "2026-01-29",
     "2026-01-30",
     "2026-01-31",
-    "2026-02-01"
+    "2026-02-01",
+    "2026-02-02"
   ],
   "current_daily_streak": {
-    "duration": 75,
+    "duration": 76,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-01T08:00:00.000Z",
+    "utcEndTime": "2026-02-02T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2026-02-01T00:00:00.000Z",
-    "ttl": 1769995436
+    "end": "2026-02-02T00:00:00.000Z",
+    "ttl": 1770081854
   },
   "longest_daily_streak": {
-    "duration": 75,
+    "duration": 76,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-01T08:00:00.000Z",
+    "utcEndTime": "2026-02-02T08:00:00.000Z",
     "start": "2025-11-19T00:00:00.000Z",
-    "end": "2026-02-01T00:00:00.000Z"
+    "end": "2026-02-02T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 20,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-01T08:00:00.000Z",
+    "utcEndTime": "2026-02-02T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-01T00:00:00.000Z",
-    "ttl": 1769995436
+    "end": "2026-02-02T00:00:00.000Z",
+    "ttl": 1770081854
   },
   "longest_weekly_streak": {
     "duration": 20,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-01T08:00:00.000Z",
+    "utcEndTime": "2026-02-02T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-01T00:00:00.000Z"
+    "end": "2026-02-02T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -724,7 +725,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 58,
+    "daysLeftInCurrentChallenge": 57,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
@@ -750,10 +751,10 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_LoveLetters_ced735a1-487f-4445-bcc0-6ec49b17cea9.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_LoveLetters_a3ebd971-e3ed-4248-8857-362d8514a552.png",
         "quantity": 0,
-        "title": "Mystery",
-        "isUnrevealedMysteryAchievement": true,
+        "title": "Love Letters",
+        "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
     ]
