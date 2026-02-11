@@ -152,15 +152,16 @@
     "2026-02-05",
     "2026-02-06",
     "2026-02-07",
-    "2026-02-08"
+    "2026-02-08",
+    "2026-02-10"
   ],
   "current_daily_streak": {
-    "duration": 82,
+    "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-08T08:00:00.000Z",
-    "start": "2025-11-19T00:00:00.000Z",
-    "end": "2026-02-08T00:00:00.000Z",
-    "ttl": 1770688122
+    "utcEndTime": "2026-02-10T08:00:00.000Z",
+    "start": "2026-02-10T00:00:00.000Z",
+    "end": "2026-02-10T00:00:00.000Z",
+    "ttl": 1770774356
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -172,22 +173,30 @@
   "current_weekly_streak": {
     "duration": 21,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-08T08:00:00.000Z",
+    "utcEndTime": "2026-02-10T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-08T00:00:00.000Z",
-    "ttl": 1770688122
+    "end": "2026-02-10T00:00:00.000Z",
+    "ttl": 1770774356
   },
   "longest_weekly_streak": {
     "duration": 21,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-08T08:00:00.000Z",
+    "utcEndTime": "2026-02-10T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-08T00:00:00.000Z"
+    "end": "2026-02-10T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "FF339CF564164D99AD520AF705EB88D7",
+        "read_event_id": "ffab31a3-89e3-407e-a3ec-90d0bf042314",
+        "date_read": "2026-02-10T09:01:58-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "28EF42F7F259412C9EA32534743888ED",
         "read_event_id": "b31088fe-973c-47f5-a9e9-2518393ff6ee",
@@ -739,16 +748,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 50,
+    "daysLeftInCurrentChallenge": 49,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 9,
+    "totalEarnedAchievements": 11,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
-        "quantity": 6,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_29169293-2a2e-34e8-a885-6357b62363dd.png",
+        "quantity": 1,
+        "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
@@ -758,17 +767,17 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_82641bcd-f5b6-3ac6-8f24-ebd06ca64066.png",
-        "quantity": 0,
-        "title": "Silver Reader",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_LoveLetters_a3ebd971-e3ed-4248-8857-362d8514a552.png",
         "quantity": 0,
         "title": "Love Letters",
         "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_08211496-b5d2-4bf2-9ca8-ebbea1954afd.png",
+        "quantity": 0,
+        "title": "Mystery",
+        "isUnrevealedMysteryAchievement": true,
         "hasLevel": false
       }
     ]
