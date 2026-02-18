@@ -159,15 +159,16 @@
     "2026-02-13",
     "2026-02-14",
     "2026-02-15",
-    "2026-02-16"
+    "2026-02-16",
+    "2026-02-17"
   ],
   "current_daily_streak": {
-    "duration": 7,
+    "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-16T08:00:00.000Z",
+    "utcEndTime": "2026-02-17T08:00:00.000Z",
     "start": "2026-02-10T00:00:00.000Z",
-    "end": "2026-02-16T00:00:00.000Z",
-    "ttl": 1771291414
+    "end": "2026-02-17T00:00:00.000Z",
+    "ttl": 1771377973
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -179,22 +180,30 @@
   "current_weekly_streak": {
     "duration": 22,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-16T08:00:00.000Z",
+    "utcEndTime": "2026-02-17T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-16T00:00:00.000Z",
-    "ttl": 1771291414
+    "end": "2026-02-17T00:00:00.000Z",
+    "ttl": 1771377973
   },
   "longest_weekly_streak": {
     "duration": 22,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-16T08:00:00.000Z",
+    "utcEndTime": "2026-02-17T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-16T00:00:00.000Z"
+    "end": "2026-02-17T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "6B7852B2301D4CB697BF7C072E2515B9",
+        "read_event_id": "92027e17-e408-4b8f-88b5-43cbf2cefc80",
+        "date_read": "2026-02-17T08:22:45-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "FBAC617C3A134AA78F1ED6AD3BE8924A",
         "read_event_id": "f3571baa-1307-4ca0-9de2-e5f949ac5a07",
@@ -786,14 +795,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 43,
+    "daysLeftInCurrentChallenge": 42,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 11,
+    "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_29169293-2a2e-34e8-a885-6357b62363dd.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
         "quantity": 1,
-        "title": "Silver Reader",
+        "title": "Noble Steed",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -812,7 +821,7 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_08211496-b5d2-4bf2-9ca8-ebbea1954afd.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PenPal_50318925-5890-455c-a470-cc010d2429cc.png",
         "quantity": 0,
         "title": "Mystery",
         "isUnrevealedMysteryAchievement": true,
