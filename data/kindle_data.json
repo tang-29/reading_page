@@ -163,15 +163,16 @@
     "2026-02-17",
     "2026-02-18",
     "2026-02-19",
-    "2026-02-20"
+    "2026-02-20",
+    "2026-02-21"
   ],
   "current_daily_streak": {
-    "duration": 11,
+    "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-20T08:00:00.000Z",
+    "utcEndTime": "2026-02-21T08:00:00.000Z",
     "start": "2026-02-10T00:00:00.000Z",
-    "end": "2026-02-20T00:00:00.000Z",
-    "ttl": 1771636720
+    "end": "2026-02-21T00:00:00.000Z",
+    "ttl": 1771723468
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -183,17 +184,17 @@
   "current_weekly_streak": {
     "duration": 22,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-20T08:00:00.000Z",
+    "utcEndTime": "2026-02-21T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-20T00:00:00.000Z",
-    "ttl": 1771636720
+    "end": "2026-02-21T00:00:00.000Z",
+    "ttl": 1771723468
   },
   "longest_weekly_streak": {
     "duration": 22,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-20T08:00:00.000Z",
+    "utcEndTime": "2026-02-21T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-20T00:00:00.000Z"
+    "end": "2026-02-21T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -798,16 +799,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 39,
+    "daysLeftInCurrentChallenge": 38,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
-        "quantity": 1,
-        "title": "Noble Steed",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
+        "quantity": 7,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
