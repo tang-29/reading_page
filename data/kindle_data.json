@@ -170,15 +170,16 @@
     "2026-02-24",
     "2026-02-25",
     "2026-02-26",
-    "2026-02-27"
+    "2026-02-27",
+    "2026-02-28"
   ],
   "current_daily_streak": {
-    "duration": 18,
+    "duration": 19,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-27T08:00:00.000Z",
+    "utcEndTime": "2026-02-28T08:00:00.000Z",
     "start": "2026-02-10T00:00:00.000Z",
-    "end": "2026-02-27T00:00:00.000Z",
-    "ttl": 1772241260
+    "end": "2026-02-28T00:00:00.000Z",
+    "ttl": 1772329318
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -190,22 +191,30 @@
   "current_weekly_streak": {
     "duration": 23,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-27T08:00:00.000Z",
+    "utcEndTime": "2026-02-28T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-27T00:00:00.000Z",
-    "ttl": 1772241260
+    "end": "2026-02-28T00:00:00.000Z",
+    "ttl": 1772329318
   },
   "longest_weekly_streak": {
     "duration": 23,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-27T08:00:00.000Z",
+    "utcEndTime": "2026-02-28T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-27T00:00:00.000Z"
+    "end": "2026-02-28T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "90B2C5341AB34420981247854102F9E7",
+        "read_event_id": "aae4f39d-0005-465f-841b-093522201bf3",
+        "date_read": "2026-02-27T18:21:47-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "6B7852B2301D4CB697BF7C072E2515B9",
         "read_event_id": "92027e17-e408-4b8f-88b5-43cbf2cefc80",
@@ -805,13 +814,13 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 32,
+    "daysLeftInCurrentChallenge": 31,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
-        "quantity": 7,
+        "quantity": 8,
         "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
