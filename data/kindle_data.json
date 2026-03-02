@@ -171,15 +171,16 @@
     "2026-02-25",
     "2026-02-26",
     "2026-02-27",
-    "2026-02-28"
+    "2026-02-28",
+    "2026-03-01"
   ],
   "current_daily_streak": {
-    "duration": 19,
+    "duration": 20,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-01T08:00:00.000Z",
     "start": "2026-02-10T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z",
-    "ttl": 1772329318
+    "end": "2026-03-01T00:00:00.000Z",
+    "ttl": 1772414519
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -189,24 +190,32 @@
     "end": "2026-02-08T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 23,
+    "duration": 24,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-01T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z",
-    "ttl": 1772329318
+    "end": "2026-03-01T00:00:00.000Z",
+    "ttl": 1772414519
   },
   "longest_weekly_streak": {
-    "duration": 23,
+    "duration": 24,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-28T08:00:00.000Z",
+    "utcEndTime": "2026-03-01T08:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-02-28T00:00:00.000Z"
+    "end": "2026-03-01T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "2CE09045C1424CEC82B82A714077F100",
+        "read_event_id": "d316ca64-1a86-4832-a5a4-ab32ad27a1c6",
+        "date_read": "2026-03-01T04:00:14-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "90B2C5341AB34420981247854102F9E7",
         "read_event_id": "aae4f39d-0005-465f-841b-093522201bf3",
@@ -814,14 +823,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 31,
+    "daysLeftInCurrentChallenge": 30,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
-        "quantity": 8,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
