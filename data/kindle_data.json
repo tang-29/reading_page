@@ -187,15 +187,16 @@
     "2026-03-15",
     "2026-03-16",
     "2026-03-17",
-    "2026-03-18"
+    "2026-03-18",
+    "2026-03-19"
   ],
   "current_daily_streak": {
-    "duration": 13,
+    "duration": 14,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-18T07:00:00.000Z",
+    "utcEndTime": "2026-03-19T07:00:00.000Z",
     "start": "2026-03-06T00:00:00.000Z",
-    "end": "2026-03-18T00:00:00.000Z",
-    "ttl": 1773883648
+    "end": "2026-03-19T00:00:00.000Z",
+    "ttl": 1773969769
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -207,17 +208,17 @@
   "current_weekly_streak": {
     "duration": 26,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-18T07:00:00.000Z",
+    "utcEndTime": "2026-03-19T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-03-18T00:00:00.000Z",
-    "ttl": 1773883648
+    "end": "2026-03-19T00:00:00.000Z",
+    "ttl": 1773969769
   },
   "longest_weekly_streak": {
     "duration": 26,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-18T07:00:00.000Z",
+    "utcEndTime": "2026-03-19T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-03-18T00:00:00.000Z"
+    "end": "2026-03-19T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -854,20 +855,13 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 13,
+    "daysLeftInCurrentChallenge": 12,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 12,
+    "totalEarnedAchievements": 13,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
-        "quantity": 9,
-        "title": "Perfect Week",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
-        "quantity": 0,
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b4eedd64-816f-36a9-9efb-30e5b2ec3895.png",
+        "quantity": 1,
         "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
@@ -885,6 +879,13 @@
         "title": "Pen Pal",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
+        "quantity": 9,
+        "title": "Perfect Week",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
       }
     ]
   }
