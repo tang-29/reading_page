@@ -199,15 +199,17 @@
     "2026-03-27",
     "2026-03-28",
     "2026-03-29",
-    "2026-03-30"
+    "2026-03-30",
+    "2026-03-31",
+    "2026-04-01"
   ],
   "current_daily_streak": {
-    "duration": 25,
+    "duration": 27,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-30T07:00:00.000Z",
+    "utcEndTime": "2026-04-01T07:00:00.000Z",
     "start": "2026-03-06T00:00:00.000Z",
-    "end": "2026-03-30T00:00:00.000Z",
-    "ttl": 1775008421
+    "end": "2026-04-01T00:00:00.000Z",
+    "ttl": 1775093376
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -219,17 +221,17 @@
   "current_weekly_streak": {
     "duration": 28,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-30T07:00:00.000Z",
+    "utcEndTime": "2026-04-01T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-03-30T00:00:00.000Z",
-    "ttl": 1775008421
+    "end": "2026-04-01T00:00:00.000Z",
+    "ttl": 1775093376
   },
   "longest_weekly_streak": {
     "duration": 28,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-30T07:00:00.000Z",
+    "utcEndTime": "2026-04-01T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-03-30T00:00:00.000Z"
+    "end": "2026-04-01T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -898,35 +900,35 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 0,
+    "daysLeftInCurrentChallenge": 90,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 13,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
-        "quantity": 11,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HeadStart_edfab7da-b953-33cf-a0fe-d3e6dacedd38.png",
+        "quantity": 1,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_LoveLetters_a3ebd971-e3ed-4248-8857-362d8514a552.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
         "quantity": 0,
-        "title": "Love Letters",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PenPal_d984591c-e495-4aa5-a95f-41490d1d3a1f.png",
-        "quantity": 0,
-        "title": "Pen Pal",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b4eedd64-816f-36a9-9efb-30e5b2ec3895.png",
-        "quantity": 1,
         "title": "Gold Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_SilverReader_2bd7c450-c9b7-3de1-848a-546ecacea042.png",
+        "quantity": 0,
+        "title": "Silver Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
+        "quantity": 0,
+        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
