@@ -203,15 +203,16 @@
     "2026-03-31",
     "2026-04-01",
     "2026-04-02",
-    "2026-04-03"
+    "2026-04-03",
+    "2026-04-04"
   ],
   "current_daily_streak": {
-    "duration": 29,
+    "duration": 30,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-03T07:00:00.000Z",
+    "utcEndTime": "2026-04-04T07:00:00.000Z",
     "start": "2026-03-06T00:00:00.000Z",
-    "end": "2026-04-03T00:00:00.000Z",
-    "ttl": 1775265960
+    "end": "2026-04-04T00:00:00.000Z",
+    "ttl": 1775353731
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -223,17 +224,17 @@
   "current_weekly_streak": {
     "duration": 28,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-03T07:00:00.000Z",
+    "utcEndTime": "2026-04-04T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-03T00:00:00.000Z",
-    "ttl": 1775265960
+    "end": "2026-04-04T00:00:00.000Z",
+    "ttl": 1775353731
   },
   "longest_weekly_streak": {
     "duration": 28,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-03T07:00:00.000Z",
+    "utcEndTime": "2026-04-04T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-03T00:00:00.000Z"
+    "end": "2026-04-04T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -910,16 +911,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 88,
+    "daysLeftInCurrentChallenge": 87,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_226234e6-a274-3f30-899e-73ffd2544be4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_PerfectWeek_5a7ad680-f5cf-32be-bb5e-0ddcaa110030.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
