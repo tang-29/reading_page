@@ -209,15 +209,16 @@
     "2026-04-07",
     "2026-04-08",
     "2026-04-09",
-    "2026-04-10"
+    "2026-04-10",
+    "2026-04-11"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-10T07:00:00.000Z",
+    "utcEndTime": "2026-04-11T07:00:00.000Z",
     "start": "2026-04-07T00:00:00.000Z",
-    "end": "2026-04-10T00:00:00.000Z",
-    "ttl": 1775870951
+    "end": "2026-04-11T00:00:00.000Z",
+    "ttl": 1775958820
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -229,22 +230,46 @@
   "current_weekly_streak": {
     "duration": 29,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-10T07:00:00.000Z",
+    "utcEndTime": "2026-04-11T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-10T00:00:00.000Z",
-    "ttl": 1775870951
+    "end": "2026-04-11T00:00:00.000Z",
+    "ttl": 1775958820
   },
   "longest_weekly_streak": {
     "duration": 29,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-10T07:00:00.000Z",
+    "utcEndTime": "2026-04-11T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-10T00:00:00.000Z"
+    "end": "2026-04-11T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "87DDF51E126141BBBB90C96A62E75D55",
+        "read_event_id": "a3e863a7-7769-4ef8-900d-9c202a28f0f2",
+        "date_read": "2026-04-11T10:04:04-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "1CCAA453980E4A5B98A6E644018D37C5",
+        "read_event_id": "89936437-008a-45bc-a3e5-4a5d207e97f3",
+        "date_read": "2026-04-11T05:18:44-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "4EA552EBA7DB4195865F303B27A63589",
+        "read_event_id": "f8e275b3-57d4-40c6-bcf5-1747d72b4be0",
+        "date_read": "2026-04-11T03:37:50-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "4E0C9481B26A47CC8F847666B8B769A4",
         "read_event_id": "5159cfd5-f9b4-4a86-8f41-04e07effc574",
@@ -924,14 +949,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 81,
+    "daysLeftInCurrentChallenge": 80,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookworm_20c80cc3-c3e0-37b0-be2d-646c1c73c4d5.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_dc54cc08-c745-30bc-be65-0eb959746071.png",
         "quantity": 1,
-        "title": "Bookworm",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -950,11 +975,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_PerfectMonth_e41fbe1b-00cb-3ffc-8aab-de6ae9b12176.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
