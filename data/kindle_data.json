@@ -210,15 +210,16 @@
     "2026-04-08",
     "2026-04-09",
     "2026-04-10",
-    "2026-04-11"
+    "2026-04-11",
+    "2026-04-12"
   ],
   "current_daily_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-11T07:00:00.000Z",
+    "utcEndTime": "2026-04-12T07:00:00.000Z",
     "start": "2026-04-07T00:00:00.000Z",
-    "end": "2026-04-11T00:00:00.000Z",
-    "ttl": 1775958820
+    "end": "2026-04-12T00:00:00.000Z",
+    "ttl": 1776045522
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -228,24 +229,32 @@
     "end": "2026-02-08T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 29,
+    "duration": 30,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-11T07:00:00.000Z",
+    "utcEndTime": "2026-04-12T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-11T00:00:00.000Z",
-    "ttl": 1775958820
+    "end": "2026-04-12T00:00:00.000Z",
+    "ttl": 1776045522
   },
   "longest_weekly_streak": {
-    "duration": 29,
+    "duration": 30,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-11T07:00:00.000Z",
+    "utcEndTime": "2026-04-12T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-11T00:00:00.000Z"
+    "end": "2026-04-12T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "F169925717274A509B2095A4B8D24497",
+        "read_event_id": "ffcfacf5-d42b-4159-83c1-944733dcd660",
+        "date_read": "2026-04-11T21:08:19-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "87DDF51E126141BBBB90C96A62E75D55",
         "read_event_id": "a3e863a7-7769-4ef8-900d-9c202a28f0f2",
@@ -949,14 +958,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 80,
+    "daysLeftInCurrentChallenge": 79,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_dc54cc08-c745-30bc-be65-0eb959746071.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_AprilShowers_24d899b4-000f-30cf-a071-999479530c90.png",
         "quantity": 1,
-        "title": "Bibliophile",
+        "title": "April Showers",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
