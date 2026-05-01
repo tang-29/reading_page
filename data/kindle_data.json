@@ -228,15 +228,16 @@
     "2026-04-26",
     "2026-04-27",
     "2026-04-28",
-    "2026-04-29"
+    "2026-04-29",
+    "2026-04-30"
   ],
   "current_daily_streak": {
-    "duration": 23,
+    "duration": 24,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-29T07:00:00.000Z",
+    "utcEndTime": "2026-04-30T07:00:00.000Z",
     "start": "2026-04-07T00:00:00.000Z",
-    "end": "2026-04-29T00:00:00.000Z",
-    "ttl": 1777515057
+    "end": "2026-04-30T00:00:00.000Z",
+    "ttl": 1777602267
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -248,22 +249,30 @@
   "current_weekly_streak": {
     "duration": 32,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-29T07:00:00.000Z",
+    "utcEndTime": "2026-04-30T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-29T00:00:00.000Z",
-    "ttl": 1777515057
+    "end": "2026-04-30T00:00:00.000Z",
+    "ttl": 1777602267
   },
   "longest_weekly_streak": {
     "duration": 32,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-29T07:00:00.000Z",
+    "utcEndTime": "2026-04-30T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-04-29T00:00:00.000Z"
+    "end": "2026-04-30T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "49AE2241C9C348E1971526F85680260E",
+        "read_event_id": "9d27c2c0-41d7-4f5f-bd76-733c9dbba6b5",
+        "date_read": "2026-04-29T22:02:01-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "5D031A01840A45D0921D3027833B9ACD",
         "read_event_id": "6423c847-8b99-4dea-b6e4-01e45d5eedd9",
@@ -1007,7 +1016,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 62,
+    "daysLeftInCurrentChallenge": 61,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
