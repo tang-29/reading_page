@@ -230,15 +230,16 @@
     "2026-04-28",
     "2026-04-29",
     "2026-04-30",
-    "2026-05-01"
+    "2026-05-01",
+    "2026-05-02"
   ],
   "current_daily_streak": {
-    "duration": 25,
+    "duration": 26,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-01T07:00:00.000Z",
+    "utcEndTime": "2026-05-02T07:00:00.000Z",
     "start": "2026-04-07T00:00:00.000Z",
-    "end": "2026-05-01T00:00:00.000Z",
-    "ttl": 1777687322
+    "end": "2026-05-02T00:00:00.000Z",
+    "ttl": 1777774023
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -250,22 +251,30 @@
   "current_weekly_streak": {
     "duration": 32,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-01T07:00:00.000Z",
+    "utcEndTime": "2026-05-02T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-05-01T00:00:00.000Z",
-    "ttl": 1777687322
+    "end": "2026-05-02T00:00:00.000Z",
+    "ttl": 1777774023
   },
   "longest_weekly_streak": {
     "duration": 32,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-01T07:00:00.000Z",
+    "utcEndTime": "2026-05-02T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-05-01T00:00:00.000Z"
+    "end": "2026-05-02T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "8530CF4E734C4495AD43E77741557C30",
+        "read_event_id": "ae00f104-c7fa-438e-b91c-68b7c5844586",
+        "date_read": "2026-05-02T09:30:42-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "49AE2241C9C348E1971526F85680260E",
         "read_event_id": "9d27c2c0-41d7-4f5f-bd76-733c9dbba6b5",
@@ -1017,14 +1026,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 60,
+    "daysLeftInCurrentChallenge": 59,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HeadStart_edfab7da-b953-33cf-a0fe-d3e6dacedd38.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_PerfectWeek_5a7ad680-f5cf-32be-bb5e-0ddcaa110030.png",
+        "quantity": 4,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
