@@ -240,15 +240,16 @@
     "2026-05-09",
     "2026-05-14",
     "2026-05-15",
-    "2026-05-16"
+    "2026-05-16",
+    "2026-05-17"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-16T07:00:00.000Z",
+    "utcEndTime": "2026-05-17T07:00:00.000Z",
     "start": "2026-05-14T00:00:00.000Z",
-    "end": "2026-05-16T00:00:00.000Z",
-    "ttl": 1778984821
+    "end": "2026-05-17T00:00:00.000Z",
+    "ttl": 1779071819
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -258,24 +259,40 @@
     "end": "2026-02-08T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 34,
+    "duration": 35,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-16T07:00:00.000Z",
+    "utcEndTime": "2026-05-17T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-05-16T00:00:00.000Z",
-    "ttl": 1778984821
+    "end": "2026-05-17T00:00:00.000Z",
+    "ttl": 1779071819
   },
   "longest_weekly_streak": {
-    "duration": 34,
+    "duration": 35,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-16T07:00:00.000Z",
+    "utcEndTime": "2026-05-17T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-05-16T00:00:00.000Z"
+    "end": "2026-05-17T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "EBB5975B3B4E4282A129A89409F765A0",
+        "read_event_id": "3a2298f3-b500-4d45-9b3c-9d759e33e9bb",
+        "date_read": "2026-05-17T11:16:14-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "B81EAE59D4CF40689D0D14DF4F9294EB",
+        "read_event_id": "0cb7f0ba-b68f-4220-8bc9-5ca0b6b221fb",
+        "date_read": "2026-05-17T10:47:28-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "8530CF4E734C4495AD43E77741557C30",
         "read_event_id": "ae00f104-c7fa-438e-b91c-68b7c5844586",
@@ -1035,7 +1052,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 45,
+    "daysLeftInCurrentChallenge": 44,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
