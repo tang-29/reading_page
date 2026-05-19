@@ -241,15 +241,16 @@
     "2026-05-14",
     "2026-05-15",
     "2026-05-16",
-    "2026-05-17"
+    "2026-05-17",
+    "2026-05-18"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-17T07:00:00.000Z",
+    "utcEndTime": "2026-05-18T07:00:00.000Z",
     "start": "2026-05-14T00:00:00.000Z",
-    "end": "2026-05-17T00:00:00.000Z",
-    "ttl": 1779071819
+    "end": "2026-05-18T00:00:00.000Z",
+    "ttl": 1779158127
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -261,17 +262,17 @@
   "current_weekly_streak": {
     "duration": 35,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-17T07:00:00.000Z",
+    "utcEndTime": "2026-05-18T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-05-17T00:00:00.000Z",
-    "ttl": 1779071819
+    "end": "2026-05-18T00:00:00.000Z",
+    "ttl": 1779158127
   },
   "longest_weekly_streak": {
     "duration": 35,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-17T07:00:00.000Z",
+    "utcEndTime": "2026-05-18T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-05-17T00:00:00.000Z"
+    "end": "2026-05-18T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -1052,14 +1053,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 44,
+    "daysLeftInCurrentChallenge": 43,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 8,
+    "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_SilverReader_fab43b45-6dbf-3690-b1a1-1f1965f65b90.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HaikuHappiness_b4398da5-c85f-3c27-9ba8-c166536eb879.png",
         "quantity": 1,
-        "title": "Silver Reader",
+        "title": "Haiku Happiness",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
