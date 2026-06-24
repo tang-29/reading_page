@@ -274,15 +274,16 @@
     "2026-06-19",
     "2026-06-20",
     "2026-06-21",
-    "2026-06-22"
+    "2026-06-22",
+    "2026-06-23"
   ],
   "current_daily_streak": {
-    "duration": 18,
+    "duration": 19,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-06-22T07:00:00.000Z",
+    "utcEndTime": "2026-06-23T07:00:00.000Z",
     "start": "2026-06-05T00:00:00.000Z",
-    "end": "2026-06-22T00:00:00.000Z",
-    "ttl": 1782182003
+    "end": "2026-06-23T00:00:00.000Z",
+    "ttl": 1782268437
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -294,17 +295,17 @@
   "current_weekly_streak": {
     "duration": 40,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-06-22T07:00:00.000Z",
+    "utcEndTime": "2026-06-23T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-06-22T00:00:00.000Z",
-    "ttl": 1782182003
+    "end": "2026-06-23T00:00:00.000Z",
+    "ttl": 1782268437
   },
   "longest_weekly_streak": {
     "duration": 40,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-06-22T07:00:00.000Z",
+    "utcEndTime": "2026-06-23T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-06-22T00:00:00.000Z"
+    "end": "2026-06-23T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -1124,20 +1125,13 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 8,
+    "daysLeftInCurrentChallenge": 7,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 10,
+    "totalEarnedAchievements": 11,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_PerfectWeek_5a7ad680-f5cf-32be-bb5e-0ddcaa110030.png",
-        "quantity": 7,
-        "title": "Perfect Week",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
-        "quantity": 0,
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_ef0e372f-890f-3682-afd0-1fc1cad59e85.png",
+        "quantity": 1,
         "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
@@ -1153,6 +1147,13 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_SpringReading_fda15ee0-3e70-3198-aef4-3ff3f8c7ad50.png",
         "quantity": 0,
         "title": "Spring Reading",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_MayFlowers_4fda4e67-b6b2-32e0-bf9d-405636500dbf.png",
+        "quantity": 0,
+        "title": "May Flowers",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
