@@ -302,15 +302,16 @@
     "2026-07-22",
     "2026-07-24",
     "2026-07-25",
-    "2026-07-26"
+    "2026-07-26",
+    "2026-07-27"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-07-26T07:00:00.000Z",
+    "utcEndTime": "2026-07-27T07:00:00.000Z",
     "start": "2026-07-24T00:00:00.000Z",
-    "end": "2026-07-26T00:00:00.000Z",
-    "ttl": 1785118139
+    "end": "2026-07-27T00:00:00.000Z",
+    "ttl": 1785203386
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -322,22 +323,30 @@
   "current_weekly_streak": {
     "duration": 45,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-07-26T07:00:00.000Z",
+    "utcEndTime": "2026-07-27T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-07-26T00:00:00.000Z",
-    "ttl": 1785118139
+    "end": "2026-07-27T00:00:00.000Z",
+    "ttl": 1785203386
   },
   "longest_weekly_streak": {
     "duration": 45,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-07-26T07:00:00.000Z",
+    "utcEndTime": "2026-07-27T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-07-26T00:00:00.000Z"
+    "end": "2026-07-27T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "2EF8FB5F29EB49AFB9B2165FC24070E7",
+        "read_event_id": "00bdb7a8-1c49-4ee9-bf13-32f17a5f0e22",
+        "date_read": "2026-07-27T09:10:12-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "76667FC725F94F9D8F2A1AD100406CB0",
         "read_event_id": "435aecdb-b434-4937-a8bc-65e7018cccce",
@@ -1192,7 +1201,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 66,
+    "daysLeftInCurrentChallenge": 65,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
