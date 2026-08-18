@@ -320,15 +320,16 @@
     "2026-08-13",
     "2026-08-14",
     "2026-08-15",
-    "2026-08-16"
+    "2026-08-16",
+    "2026-08-17"
   ],
   "current_daily_streak": {
-    "duration": 11,
+    "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-16T07:00:00.000Z",
+    "utcEndTime": "2026-08-17T07:00:00.000Z",
     "start": "2026-08-06T00:00:00.000Z",
-    "end": "2026-08-16T00:00:00.000Z",
-    "ttl": 1786927640
+    "end": "2026-08-17T00:00:00.000Z",
+    "ttl": 1787013925
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -340,22 +341,30 @@
   "current_weekly_streak": {
     "duration": 48,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-16T07:00:00.000Z",
+    "utcEndTime": "2026-08-17T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-08-16T00:00:00.000Z",
-    "ttl": 1786927640
+    "end": "2026-08-17T00:00:00.000Z",
+    "ttl": 1787013925
   },
   "longest_weekly_streak": {
     "duration": 48,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-16T07:00:00.000Z",
+    "utcEndTime": "2026-08-17T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-08-16T00:00:00.000Z"
+    "end": "2026-08-17T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "4FE32925B29E4E7A835A1A8BFAB75E6B",
+        "read_event_id": "4c822f12-01d1-4c42-bcbe-87af92d8aa58",
+        "date_read": "2026-08-16T21:38:35-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "37E5C5D72BBA4013AC0A1EDAEFC97931",
         "read_event_id": "8e9bcc56-78a9-445e-b772-93b797391e89",
@@ -1242,16 +1251,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 45,
+    "daysLeftInCurrentChallenge": 44,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 7,
+    "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_PerfectWeek_90951c9c-2650-379f-8a59-bbe9974080b3.png",
-        "quantity": 3,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_SilverReader_d8dc0ae2-babb-31b2-a74d-53d2202d9899.png",
+        "quantity": 1,
+        "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
@@ -1261,18 +1270,18 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_SilverReader_79be1896-990f-3a1c-8f7d-a79d287b373d.png",
-        "quantity": 0,
-        "title": "Silver Reader",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_PerfectMonth_c9984d49-906e-3156-ab18-800f910d6349.png",
         "quantity": 0,
         "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_BeachReads_01d792af-df78-36cc-8c65-03c71223e626.png",
+        "quantity": 0,
+        "title": "Beach Reads",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
       }
     ]
   }
