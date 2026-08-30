@@ -331,15 +331,16 @@
     "2026-08-25",
     "2026-08-26",
     "2026-08-27",
-    "2026-08-28"
+    "2026-08-28",
+    "2026-08-29"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-28T07:00:00.000Z",
+    "utcEndTime": "2026-08-29T07:00:00.000Z",
     "start": "2026-08-25T00:00:00.000Z",
-    "end": "2026-08-28T00:00:00.000Z",
-    "ttl": 1787979544
+    "end": "2026-08-29T00:00:00.000Z",
+    "ttl": 1788058037
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -351,17 +352,17 @@
   "current_weekly_streak": {
     "duration": 49,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-28T07:00:00.000Z",
+    "utcEndTime": "2026-08-29T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-08-28T00:00:00.000Z",
-    "ttl": 1787979544
+    "end": "2026-08-29T00:00:00.000Z",
+    "ttl": 1788058037
   },
   "longest_weekly_streak": {
     "duration": 49,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-28T07:00:00.000Z",
+    "utcEndTime": "2026-08-29T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-08-28T00:00:00.000Z"
+    "end": "2026-08-29T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -1261,16 +1262,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 33,
+    "daysLeftInCurrentChallenge": 32,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 8,
+    "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_PerfectWeek_90951c9c-2650-379f-8a59-bbe9974080b3.png",
-        "quantity": 4,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_CatTales_c88260c5-875c-35aa-ac43-c2dcda357bb3.png",
+        "quantity": 1,
+        "title": "Cat Tales",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
