@@ -358,15 +358,16 @@
     "2026-10-02",
     "2026-10-03",
     "2026-10-04",
-    "2026-10-05"
+    "2026-10-05",
+    "2026-10-06"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-05T07:00:00.000Z",
+    "utcEndTime": "2026-10-06T07:00:00.000Z",
     "start": "2026-10-02T00:00:00.000Z",
-    "end": "2026-10-05T00:00:00.000Z",
-    "ttl": 1791259603
+    "end": "2026-10-06T00:00:00.000Z",
+    "ttl": 1791344057
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -378,22 +379,30 @@
   "current_weekly_streak": {
     "duration": 55,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-05T07:00:00.000Z",
+    "utcEndTime": "2026-10-06T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-10-05T00:00:00.000Z",
-    "ttl": 1791259603
+    "end": "2026-10-06T00:00:00.000Z",
+    "ttl": 1791344057
   },
   "longest_weekly_streak": {
     "duration": 55,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-05T07:00:00.000Z",
+    "utcEndTime": "2026-10-06T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-10-05T00:00:00.000Z"
+    "end": "2026-10-06T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "2506F3C0C0934D6E9D6B9AD86AFE1CAA",
+        "read_event_id": "ced67faf-cdd0-45e4-94eb-11de283e297b",
+        "date_read": "2026-10-06T02:39:14-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "958E984E58CD4E1596A0493202DFE397",
         "read_event_id": "3aa2310c-016e-4d0a-930d-8e93daf45b88",
@@ -1312,16 +1321,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 87,
+    "daysLeftInCurrentChallenge": 86,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_HeadStart_cd65787c-fd83-3d0d-9dda-99be74a0da68.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_bb1dc97c-9e49-3ad0-9f48-8ca796879536.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
@@ -1338,9 +1347,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_4876ad16-8a20-36c5-8942-0e04d94b1361.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_594da21e-a9a0-3027-8cb1-b02b0a0ee2e6.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
