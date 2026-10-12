@@ -361,10 +361,18 @@
     "2026-10-05",
     "2026-10-06",
     "2026-10-07",
-    "2026-10-08"
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 10,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-10-11T07:00:00.000Z",
+    "start": "2026-10-02T00:00:00.000Z",
+    "end": "2026-10-11T00:00:00.000Z",
+    "ttl": 1791776065
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -374,19 +382,19 @@
     "end": "2026-02-08T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 55,
+    "duration": 56,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-08T07:00:00.000Z",
+    "utcEndTime": "2026-10-11T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-10-08T00:00:00.000Z",
-    "ttl": 1791688269
+    "end": "2026-10-11T00:00:00.000Z",
+    "ttl": 1791776065
   },
   "longest_weekly_streak": {
-    "duration": 55,
+    "duration": 56,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-08T07:00:00.000Z",
+    "utcEndTime": "2026-10-11T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-10-08T00:00:00.000Z"
+    "end": "2026-10-11T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -1326,16 +1334,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 82,
+    "daysLeftInCurrentChallenge": 81,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookworm_25459e2a-b1e3-3068-aafc-f86e294caae3.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PerfectWeek_d5e1abbd-6060-34fd-807f-17ff13807e8a.png",
         "quantity": 1,
-        "title": "Bookworm",
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
