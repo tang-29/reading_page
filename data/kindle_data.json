@@ -374,10 +374,17 @@
     "2026-10-20",
     "2026-10-21",
     "2026-10-22",
-    "2026-10-23"
+    "2026-10-23",
+    "2026-10-25",
+    "2026-10-26"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-10-26T07:00:00.000Z",
+    "start": "2026-10-25T00:00:00.000Z",
+    "end": "2026-10-26T00:00:00.000Z",
+    "ttl": 1793070413
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -387,19 +394,19 @@
     "end": "2026-02-08T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 57,
+    "duration": 58,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-23T07:00:00.000Z",
+    "utcEndTime": "2026-10-26T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-10-23T00:00:00.000Z",
-    "ttl": 1792981946
+    "end": "2026-10-26T00:00:00.000Z",
+    "ttl": 1793070413
   },
   "longest_weekly_streak": {
-    "duration": 57,
+    "duration": 58,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-23T07:00:00.000Z",
+    "utcEndTime": "2026-10-26T07:00:00.000Z",
     "start": "2025-09-26T00:00:00.000Z",
-    "end": "2026-10-23T00:00:00.000Z"
+    "end": "2026-10-26T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -1347,14 +1354,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 67,
+    "daysLeftInCurrentChallenge": 66,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_d161990b-8b2f-35d9-bc70-db6ec211dd51.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_FieldNotes_eee5d7e7-3b90-3730-8b22-355bdf82637f.png",
         "quantity": 1,
-        "title": "Bibliophile",
+        "title": "Field Notes",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
