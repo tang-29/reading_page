@@ -387,15 +387,16 @@
     "2026-11-17",
     "2026-11-18",
     "2026-11-19",
-    "2026-11-20"
+    "2026-11-20",
+    "2026-11-21"
   ],
   "current_daily_streak": {
-    "duration": 9,
+    "duration": 10,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-20T08:00:00.000Z",
+    "utcEndTime": "2026-11-21T08:00:00.000Z",
     "start": "2026-11-12T00:00:00.000Z",
-    "end": "2026-11-20T00:00:00.000Z",
-    "ttl": 1795237126
+    "end": "2026-11-21T00:00:00.000Z",
+    "ttl": 1795321308
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -407,10 +408,10 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-20T08:00:00.000Z",
+    "utcEndTime": "2026-11-21T08:00:00.000Z",
     "start": "2026-11-10T00:00:00.000Z",
-    "end": "2026-11-20T00:00:00.000Z",
-    "ttl": 1795237126
+    "end": "2026-11-21T00:00:00.000Z",
+    "ttl": 1795321308
   },
   "longest_weekly_streak": {
     "duration": 58,
@@ -1365,16 +1366,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 41,
+    "daysLeftInCurrentChallenge": 40,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PumpkinPages_92bfdf11-207c-30a2-9817-d3e1337208a7.png",
-        "quantity": 1,
-        "title": "Pumpkin Pages",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PerfectWeek_d5e1abbd-6060-34fd-807f-17ff13807e8a.png",
+        "quantity": 2,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
