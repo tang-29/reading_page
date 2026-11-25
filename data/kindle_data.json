@@ -390,15 +390,16 @@
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-24"
   ],
   "current_daily_streak": {
-    "duration": 12,
+    "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-23T08:00:00.000Z",
+    "utcEndTime": "2026-11-24T08:00:00.000Z",
     "start": "2026-11-12T00:00:00.000Z",
-    "end": "2026-11-23T00:00:00.000Z",
-    "ttl": 1795506422
+    "end": "2026-11-24T00:00:00.000Z",
+    "ttl": 1795587587
   },
   "longest_daily_streak": {
     "duration": 82,
@@ -410,10 +411,10 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-23T08:00:00.000Z",
+    "utcEndTime": "2026-11-24T08:00:00.000Z",
     "start": "2026-11-10T00:00:00.000Z",
-    "end": "2026-11-23T00:00:00.000Z",
-    "ttl": 1795506422
+    "end": "2026-11-24T00:00:00.000Z",
+    "ttl": 1795587587
   },
   "longest_weekly_streak": {
     "duration": 58,
@@ -426,6 +427,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "46F3049B382246A4AC6FD4BC234E6FDA",
+        "read_event_id": "1f21a4fe-6c60-417a-94bd-615ec69a5488",
+        "date_read": "2026-11-24T03:50:29-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "6577F6A3CD9043CBB81E3BC4739715A2",
         "read_event_id": "96123481-6242-419d-baa9-4f05e7c4fc31",
@@ -1376,7 +1385,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 38,
+    "daysLeftInCurrentChallenge": 37,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
